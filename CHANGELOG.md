@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/octane/compare/v2.3.10...2.x)
+## [Unreleased](https://github.com/laravel/octane/compare/v2.3.11...2.x)
+
+## [v2.3.11](https://github.com/laravel/octane/compare/v2.3.10...v2.3.11) - 2024-05-16
+
+* Fix to stuck in "Application change detected. Restarting workers" with Octane + FrankenPHP + Sail. by [@gazzoy](https://github.com/gazzoy) in https://github.com/laravel/octane/pull/890
 
 ## [v2.3.10](https://github.com/laravel/octane/compare/v2.3.9...v2.3.10) - 2024-05-07
 
