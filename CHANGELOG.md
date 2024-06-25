@@ -1,6 +1,12 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/octane/compare/v2.4.0...2.x)
+## [Unreleased](https://github.com/laravel/octane/compare/v2.5.0...2.x)
+
+## [v2.5.0](https://github.com/laravel/octane/compare/v2.4.0...v2.5.0) - 2024-06-24
+
+* Refreshes log manager container by [@timacdonald](https://github.com/timacdonald) in https://github.com/laravel/octane/pull/910
+* Fix inter test dependencies by [@timacdonald](https://github.com/timacdonald) in https://github.com/laravel/octane/pull/914
+* Add laravel/prompts by [@xiCO2k](https://github.com/xiCO2k) in https://github.com/laravel/octane/pull/917
 
 ## [v2.4.0](https://github.com/laravel/octane/compare/v2.3.12...v2.4.0) - 2024-05-31
 
