@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/octane/compare/v2.5.0...2.x)
+## [Unreleased](https://github.com/laravel/octane/compare/v2.5.1...2.x)
+
+## [v2.5.1](https://github.com/laravel/octane/compare/v2.5.0...v2.5.1) - 2024-07-01
+
+* [2.x] Swoole `$verbosity` must be of type int, null given. by [@xiCO2k](https://github.com/xiCO2k) in https://github.com/laravel/octane/pull/920
 
 ## [v2.5.0](https://github.com/laravel/octane/compare/v2.4.0...v2.5.0) - 2024-06-24
 
