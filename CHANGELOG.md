@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/octane/compare/v2.5.1...2.x)
+## [Unreleased](https://github.com/laravel/octane/compare/v2.5.2...2.x)
+
+## [v2.5.2](https://github.com/laravel/octane/compare/v2.5.1...v2.5.2) - 2024-07-08
+
+* Fix buffer error (issue #922) by [@atom1285](https://github.com/atom1285) in https://github.com/laravel/octane/pull/923
+* Add .mjs extension to MIME types by [@luukbox](https://github.com/luukbox) in https://github.com/laravel/octane/pull/924
 
 ## [v2.5.1](https://github.com/laravel/octane/compare/v2.5.0...v2.5.1) - 2024-07-01
 
