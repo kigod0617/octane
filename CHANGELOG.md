@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/octane/compare/v2.5.2...2.x)
+## [Unreleased](https://github.com/laravel/octane/compare/v2.5.3...2.x)
+
+## [v2.5.3](https://github.com/laravel/octane/compare/v2.5.2...v2.5.3) - 2024-08-05
+
+* fix: RoadRunner streaming through generators by [@danharrin](https://github.com/danharrin) in https://github.com/laravel/octane/pull/939
 
 ## [v2.5.2](https://github.com/laravel/octane/compare/v2.5.1...v2.5.2) - 2024-07-08
 
