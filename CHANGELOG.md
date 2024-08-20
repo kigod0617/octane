@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/octane/compare/v2.5.3...2.x)
+## [Unreleased](https://github.com/laravel/octane/compare/v2.5.4...2.x)
+
+## [v2.5.4](https://github.com/laravel/octane/compare/v2.5.3...v2.5.4) - 2024-08-09
+
+* Do not perform deletion operations during traversal by [@hughcube](https://github.com/hughcube) in https://github.com/laravel/octane/pull/941
 
 ## [v2.5.3](https://github.com/laravel/octane/compare/v2.5.2...v2.5.3) - 2024-08-05
 
