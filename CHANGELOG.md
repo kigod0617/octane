@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/octane/compare/v2.5.4...2.x)
+## [Unreleased](https://github.com/laravel/octane/compare/v2.5.5...2.x)
+
+## [v2.5.5](https://github.com/laravel/octane/compare/v2.5.4...v2.5.5) - 2024-09-11
+
+* Fix: Removes dd() workaround for Frankenphp. by [@AlliBalliBaba](https://github.com/AlliBalliBaba) in https://github.com/laravel/octane/pull/945
+* Add keep-config option to install command by [@MatusBoa](https://github.com/MatusBoa) in https://github.com/laravel/octane/pull/946
 
 ## [v2.5.4](https://github.com/laravel/octane/compare/v2.5.3...v2.5.4) - 2024-08-09
 
