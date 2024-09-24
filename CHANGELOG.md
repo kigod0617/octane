@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/octane/compare/v2.5.5...2.x)
+## [Unreleased](https://github.com/laravel/octane/compare/v2.5.6...2.x)
+
+## [v2.5.6](https://github.com/laravel/octane/compare/v2.5.5...v2.5.6) - 2024-09-24
+
+* Fix Memory Exhaustion in ConvertSwooleRequestToIlluminateRequest by Cleaning Up Unused Variables by [@jbidad](https://github.com/jbidad) in https://github.com/laravel/octane/pull/953
 
 ## [v2.5.5](https://github.com/laravel/octane/compare/v2.5.4...v2.5.5) - 2024-09-11
 
