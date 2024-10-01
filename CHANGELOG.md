@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/octane/compare/v2.5.7...2.x)
+## [Unreleased](https://github.com/laravel/octane/compare/v2.5.8...2.x)
+
+## [v2.5.8](https://github.com/laravel/octane/compare/v2.5.7...v2.5.8) - 2024-10-01
+
+* [2.x] Supports Laravel Prompts 0.2 and 0.3 by [@webard](https://github.com/webard) in https://github.com/laravel/octane/pull/956
 
 ## [v2.5.7](https://github.com/laravel/octane/compare/v2.5.6...v2.5.7) - 2024-09-27
 
