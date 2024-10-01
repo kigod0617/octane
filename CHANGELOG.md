@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/octane/compare/v2.5.6...2.x)
+## [Unreleased](https://github.com/laravel/octane/compare/v2.5.7...2.x)
+
+## [v2.5.7](https://github.com/laravel/octane/compare/v2.5.6...v2.5.7) - 2024-09-27
+
+* Update logo to support dark/light theme by [@milewski](https://github.com/milewski) in https://github.com/laravel/octane/pull/958
+* Fixed host argument to use the getHost() function by [@elomonaco](https://github.com/elomonaco) in https://github.com/laravel/octane/pull/957
 
 ## [v2.5.6](https://github.com/laravel/octane/compare/v2.5.5...v2.5.6) - 2024-09-24
 
