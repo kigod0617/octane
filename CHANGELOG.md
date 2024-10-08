@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/octane/compare/v2.5.8...2.x)
+## [Unreleased](https://github.com/laravel/octane/compare/v2.5.9...2.x)
+
+## [v2.5.9](https://github.com/laravel/octane/compare/v2.5.8...v2.5.9) - 2024-10-06
+
+* Git ignore the `**/caddy` directories by [@maartenpaauw](https://github.com/maartenpaauw) in https://github.com/laravel/octane/pull/960
 
 ## [v2.5.8](https://github.com/laravel/octane/compare/v2.5.7...v2.5.8) - 2024-10-01
 
